@@ -15,7 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 title: "Resume"
 email: "schautzl@msu.edu"
-description: >- This is my personal website where I share information about myself
+description: >- 
+	This is my personal website where I share information about myself
 twitter_username: "NA"
 github_username: "lschautz"
 minimal_mistakes_skin: default
