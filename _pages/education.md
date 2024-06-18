@@ -15,3 +15,6 @@ Higher Education: Michigan State University
 
   Currently a junior at MSU studying computer engineering and working towards a bachelors degree. Member of Engineers for a sustainable
   world. Taken many relevant CSE and ECE classes applicable to a field in Coding or Computer Engineering.
+
+
+![Education Image](../assets/images/msu_image.jpg)
