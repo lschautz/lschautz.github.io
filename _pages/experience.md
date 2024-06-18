@@ -20,3 +20,4 @@ layout: single
 - The last person to handle products before they reach the consumer, ensure all proucts get out
   are rotated and stocked
 
+![Experience Image](../assets/images/kayak.jpg)
